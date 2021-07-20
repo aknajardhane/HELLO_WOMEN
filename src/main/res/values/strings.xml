@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">HELLO_WOMEN</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phnno">Phone No</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="phn_no">Phone No</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="sendSMSandLivelocation">Send Message </string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string name="Tips_for_safety">Tips For Women Safety :</string>
+    <string name="text_Tips_for_safety1">1. Woman must have all the emergency numbers with them and WhatsApp also if possible so that they can immediately tell to their family members and police.</string>
+    <string name="text_Tips_for_safety2">2. Hold your bag as tightly as you can when you are taking public transport. You can use it to hit your predator.</string>
+    <string name="text_Tips_for_safety3">3. When you are walking on a road, keep your mobile phone handy but avoid using it. Being on the phone makes you less alert. </string>
+    <string name="text_Tips_for_safety4">4. When you are travelling in an auto alone, make sure you share the auto number with someone in your family even if it is during the day.</string>
+    <string name="text_Tips_for_safety5">5. Similarly, if you have booked a cab, always share your coordinates with someone.</string>
+    <string name="text_Tips_for_safety6">6. When in office, avoid going to isolated areas with no CCTV cameras.</string>
+    <string name="text_Tips_for_safety7">7. If you have parked your car, always look underneath, especially at night or at a less-crowded area.</string>
+    <string name="text_Tips_for_safety8">8. Whenever you are posting anything on social media, make sure you do not do it in real-time. Because if you do, you are telling people on your social media about your whereabouts. Delay those posts by say, 20-30 minutes.</string>
+    <string name="text_Tips_for_safety9">9. Always ensure you are not posting anything on your social media with your address or phone number on it.</string>
+    <string name="text_Tips_for_safety10">10. Whenever you are giving out order for delivery at a grocery store, make sure you whisper your address or write
+        it down somewhere and give it to the shopkeeper. Never announce it.</string>
+
+    <string name="Escape">Tips To Escape From Threat :</string>
+    <string name="Escape1">1. What should a woman do if she finds herself alone in the company of a strange male as she prepares to enter a lift in a High Rise apartment late at night.____________________ Experts Say: Enter the lift......... If you need to reach the 13th floor, press all the buttons up to your destination. No one will dare attack you in a lift that stops on every floor.</string>
+    <string name="Escape2">
+        2. What to do if a stranger tries to attack you when you are alone in your house, run into the kitchen_______________
+        Experts Say: You alone know where the chilli powder and turmeric are kept. And where the knives and plates are. All these can be turned into deadly weapons. If nothing else, start throwing plates and utensils all over. Let them break. Scream and Remember that noise is the greatest enemy of a molester. He does not want to be caught.</string>
+    <string name="Escape3">3. Taking an Auto or Taxi at Night________________________
+        Experts Say: Before getting into an auto at night, note down its registration number. Then use the mobile to call your family or friend and pass on the details to them in the language the driver understands. Even if no one answers your call, pretend you are in a conversation. The driver now knows someone has his details and he will be in serious trouble if anything goes wrong. He is now bound to take you home safe and sound. A potential attacker is now your de facto protector.</string>
+
+
+    <string name="Escape4">4. If you are stalked at night__________________________
+        Expert Say: Enter a shop or a house and explain your predicament. If it is night and shops are not open, go inside ATM box. ATM centres always have close circuit television. Fearing identification, no one will dare attack you.
+        After all, being mentally alert is the greatest weapon you
+        can ever have.</string>
+
+    <string name="pictures">Pictures For Self Defence :</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button1"> Tips_for_safety</string>
+    <string name="button2"> escapefromthreat</string>
+    <string name="button3"> pictures</string>
+    <string name="button4"> map</string>
+    <string name="escapefromthreat">button2</string>
+    <string name="map">button4</string>
+
+
+</resources>
